@@ -56,3 +56,7 @@ var sp8 = "a og c eru báðar false vegna þess að 0 og ekkert getur hvorki ver
 var myNumber = 5;
 var isMyNumberBetween2and9 = myNumber < 9 > 2;
 var sp9 = "5 er vissulega á milli 2 og 9 en í byrjun strengsins miðar compilerinn myNumber(5) við 9 sem verður true og svo reiknar hann 'true(1) > 2' sem er false og því kemur false út úr þessu."
+
+/* Puzzle */
+
+var p1 = "zoe er knight og mel er knave"
