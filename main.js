@@ -59,4 +59,12 @@ var sp9 = "5 er vissulega á milli 2 og 9 en í byrjun strengsins miðar compile
 
 /* Puzzle */
 
-var p1 = "zoe er knight og mel er knave"
+var p1 = "Zoe er knight og Mel er knave
+
+var p2 = "Peggy er knight og Zippy er knave"
+
+var p3 = "Sue er knight og Zippy er knave"
+
+var p4 = "Sally og Zippy eru bæði knaves"
+
+var p5 = "Homer og Bozo eru báðir knights"
